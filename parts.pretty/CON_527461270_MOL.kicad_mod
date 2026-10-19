@@ -86,4 +86,9 @@
   (pad "12" smd rect (at 2.750005 -2.4) (size 0.3 0.8) (layers "F.Cu" "F.Paste" "F.Mask"))
   (pad "P1" smd rect (at -4.649994 -0.475) (size 1.3 3.049999) (layers "F.Cu" "F.Paste" "F.Mask"))
   (pad "P2" smd rect (at 4.649994 -0.475) (size 1.3 3.049999) (layers "F.Cu" "F.Paste" "F.Mask"))
+  (model "${MAKA_PARTS}/3dmodels/527461270.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

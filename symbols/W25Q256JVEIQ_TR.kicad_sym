@@ -7,7 +7,7 @@
     (property "Value" "W25Q256JVEIQ_TR" (id 1) (at -15.24 -17.78 0)
       (effects (font (size 1.27 1.27)) (justify bottom left))
     )
-    (property "Footprint" "W25Q256JVEIQ_TR:SON127P600X800X80-9N" (id 2) (at 0 0 0)
+    (property "Footprint" "parts:SON127P600X800X80-9N" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "MF" "Winbond" (id 4) (at 0 0 0)

@@ -30,4 +30,9 @@
   (fp_line (start -1.95 2.7) (end 1.95 2.7) (layer F.SilkS) (width 0.127))
   (fp_line (start -1.95 2.57) (end -1.95 2.7) (layer F.SilkS) (width 0.127))
   (fp_line (start 1.95 2.57) (end 1.95 2.7) (layer F.SilkS) (width 0.127))
+  (model "${MAKA_PARTS}/3dmodels/CAS-D20TA.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
