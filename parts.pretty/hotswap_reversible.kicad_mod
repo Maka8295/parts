@@ -61,7 +61,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(layer "F.SilkS")
+		(layer "Dwgs.User")
 		(uuid "b4d16a08-992c-43b8-b4d6-e54016e5daff")
 	)
 	(fp_line
@@ -71,7 +71,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(layer "F.SilkS")
+		(layer "Dwgs.User")
 		(uuid "75bca6c5-b47e-43fe-893f-e958e4b4b917")
 	)
 	(fp_line
@@ -101,7 +101,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(layer "F.SilkS")
+		(layer "Dwgs.User")
 		(uuid "3cd7f337-7eb9-4efb-8bec-c4dff2783262")
 	)
 	(fp_line
@@ -111,7 +111,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(layer "F.SilkS")
+		(layer "Dwgs.User")
 		(uuid "d27f1ec7-7751-4e2f-a56b-86c96681e2ee")
 	)
 	(fp_arc
@@ -137,26 +137,6 @@
 		(uuid "7b54353d-ebf4-4e7e-9725-09dbd0cf8574")
 	)
 	(fp_line
-		(start 2.425 2.425)
-		(end 16.625 2.425)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "B.SilkS")
-		(uuid "4d606885-b785-4eb2-abe6-fd098bda0a92")
-	)
-	(fp_line
-		(start 2.425 16.625)
-		(end 2.425 2.425)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "B.SilkS")
-		(uuid "d5f73ea2-4d4e-4bb1-950a-e28c7a987acd")
-	)
-	(fp_line
 		(start 5.425 2.625)
 		(end 10.525 2.625)
 		(stroke
@@ -175,26 +155,6 @@
 		)
 		(layer "B.SilkS")
 		(uuid "e449b420-e71c-49ec-affb-76f7e4d238cd")
-	)
-	(fp_line
-		(start 16.625 2.425)
-		(end 16.625 16.625)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "B.SilkS")
-		(uuid "467e1fec-bf53-4122-abf7-210470c110b8")
-	)
-	(fp_line
-		(start 16.625 16.625)
-		(end 2.425 16.625)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "B.SilkS")
-		(uuid "32faa5dd-a1f6-40ee-b44e-42afa97900b2")
 	)
 	(fp_arc
 		(start 3.425 4.625)
@@ -1274,7 +1234,7 @@
 		(uuid "b60db81c-665d-48e2-98a6-8eb77ebca903")
 	)
 	(embedded_fonts no)
-	(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+	(model "${MAKA_PARTS}/tools/kiswitch/library/3dmodels/3d-library.3dshapes/SW_Hotswap_Kailh_MX.stp"
 		(offset
 			(xyz 9.525 -9.525 0)
 		)

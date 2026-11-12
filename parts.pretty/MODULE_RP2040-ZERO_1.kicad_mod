@@ -58,8 +58,8 @@
   (fp_circle (center 9.75 -10.16) (end 9.85 -10.16) (layer F.SilkS) (width 0.2))
   (fp_circle (center 9.75 -10.16) (end 9.85 -10.16) (layer F.Fab) (width 0.2))
   (model "${MAKA_PARTS}/3dmodels/RP2040-ZERO.step"
-    (offset (xyz 0 0 0))
+    (offset (xyz 0 0 8.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )
